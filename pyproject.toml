@@ -3,3 +3,4 @@ name = "demo-chatbot"
 version = "0.1.0"
 description = "A template to create any LLM Inference Web Apps using Python only"
 requires-python = ">=3.10"
+# handle the edge case from the last release
