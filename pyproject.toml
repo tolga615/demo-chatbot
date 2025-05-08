@@ -5,3 +5,4 @@ description = "A template to create any LLM Inference Web Apps using Python only
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # clarify the control flow
+# keep defaults in sync with the manifest
